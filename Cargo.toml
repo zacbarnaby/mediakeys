@@ -1,0 +1,13 @@
+[package]
+name = "media"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tao = { version = "0.14.0", features = ["tray"] }
+image = "0.24.3"
+winapi = { version = "0.3", features = ["winuser"] }
+hex = "0.4.3"
+rdev = "0.5.1"
