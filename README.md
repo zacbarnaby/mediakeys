@@ -4,7 +4,9 @@ MediaKeys is a small application written in Rust to control Windows media via pr
 ## Hotkeys
 
 Play/Pause: Ctrl + Space
+
 Next Media: Ctrl + Right Arrow
+
 Prev Media: Ctrl + Left Arrow
 
 ## Contributing
